@@ -1,0 +1,13 @@
+{
+    "name": "frankperez87/vin-explosion",
+    "description": "This API allows you to look up information for a vehicle by providing only the VIN.",
+    "license": "MIT",
+    "require-dev": {
+        "phpspec/phpspec": "2.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VinExplosion\\": "src/VinExplosion"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+suites:
+  carcasm_suite:
+    namespace: VinExplosion
+    src_path: src
