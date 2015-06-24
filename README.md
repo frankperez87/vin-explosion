@@ -4,6 +4,11 @@ This API allows you to look up information for a vehicle by providing only the V
 
 *This is not the official API*
 
+### Installation Instructions using Composer
+```
+composer require frankperez87/vin-explosion
+```
+
 ### Example Usage: 
 ```php
 <?php
